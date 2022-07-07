@@ -39,7 +39,7 @@
 
 
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
-
+![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=theKooker)](https://github.com/anuraghazra/github-readme-stats)
