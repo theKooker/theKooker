@@ -14,7 +14,7 @@
 - 📫 How to reach me : nouridhia51@gmail.com
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-![#f03c15](<p  align="left">
+<p  align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="background-color:white;" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />               
@@ -37,7 +37,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" height="45" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" />        
-</p>)
+</p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=theKooker)](https://github.com/anuraghazra/github-readme-stats)
 
