@@ -3,6 +3,8 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header>
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
