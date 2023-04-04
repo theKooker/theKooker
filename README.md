@@ -8,9 +8,9 @@
 
 
 - 👋 Hi, my name is Mohamed Dhia Nouri
-- 👀 I’m interested in shader programming, game developement, python , java .....
-- 🌱 I’m currently studying games engineering in technical university of Munich (one of best uni worldwide :) )
-- 💞️ I’m looking to collaborate on everything :)
+- 👀 I’m interested in shader programming, game developement, embedded systems, Web dev...
+- 🌱 I’m currently studying games engineering in technical university of Munich.
+- 💞️ Open for every collaboration
 - 📫 How to reach me : nouridhia51@gmail.com
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
